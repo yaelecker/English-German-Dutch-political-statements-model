@@ -11,9 +11,9 @@ Generated: 2025-07-08 13:36:36
 
 📁 DATASET COMPOSITION
 ----------------------------------------
-📈 Training samples: 383
-📉 Test samples: 95
-📊 Total samples: 478
+Training samples: 383
+Test samples: 95
+Total samples: 478
 ⚓ Prototype anchors: 9
 📝 Real texts: 374
 📄 Original texts: 374
